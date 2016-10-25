@@ -1,0 +1,9 @@
+{
+  "__comment__": "/**/",
+  "signatureVersion": 1,
+  "xdkVersion": "3641",
+  "usesAppDesigner": "false",
+  "projectGuid": "f945cc95-ecbd-4dbc-9580-2dc3d0dacaa5",
+  "projectTypeName": "com.intel.xdk.projecttype.jsapp",
+  "src": "jsapp/template-blank-cordova-project-lite/sample.zip"
+}
